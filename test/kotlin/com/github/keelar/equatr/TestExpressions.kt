@@ -1,4 +1,4 @@
-package com.github.keelar.exprk
+package com.github.keelar.equatr
 
 import org.junit.Test
 import java.math.BigDecimal
